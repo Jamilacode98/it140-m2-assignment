@@ -1,20 +1,23 @@
-"""TODO: Replace with a one-line summary of the program's purpose (<73 chars).
+The main purpose of this program is to the user to get the feel of coding.
 
 Input:
-    TODO: Replace with a major input, including its type and source.
-    TODO: Replace with another major input, or delete this TODO line.
-    TODO: Replace with another major input, or delete this TODO line.
+     prompt the user to enter their name using the prompt "What is your name?" Functional requirements 1.1.
+     Prompt the user to enter their age using the prompt "How old are you?" Functional requirements 1.2.
+    
 
 Process:
-    TODO: Replace with a major processing step.
+    Treat the entered age as an integer that can be used in an arithmetic calculation Functional requirements 1.3
+    Calculate the user's approximate birth year by subtracting the entered age from the current calendar year Functional Requirements 1.4.
 
 Output:
-    TODO: Replace with a major output, including its type and destination.
+    Display a personalized result using the user's name and calculated birth year in this format Functional requirements 1.5.
 
 Typical usage example:
-    TODO: Replace with the input prompt and original name-input example.
-    TODO: Replace with the input prompt and original age-input example.
-    TODO: Replace with the resulting output from those inputs.
+    "What is your name?".
+    "How old are you? ".
+    Hello {name}! You were born in {year}.
+
+.
 """
 
 # === Imports ===
@@ -29,14 +32,15 @@ def main() -> None:
     """Run the name-age program."""
 
     # Get user input.
-    # TODO: Replace with code to get user's name as a string. See zyBooks 1.3.
-    # TODO: Replace with code to get user's age as an integer. See zyBooks 2.6.
+    # Print("What is your name?").
+    # input_text = input(Enter a number:)
 
     # Calculate user's approximate birth year.
-    # TODO: Replace with code to process data. See zyBooks 1.16 & 1.17.
+      current_year = 2026
+      birth_year = current_year -age
 
     # Output personalized message with user's name and birth year.
-    # TODO: Replace with code to output formatted results. zyBooks 1.3 & 2.7.
+    # print(f"Hello, {name} ! You were born around {birth year}.").
 
 
 # === Main Guard ===
@@ -45,5 +49,4 @@ if __name__ == "__main__":
 
 
 # === References ===
-# TODO: Replace with an APA-style reference for a source you used, or delete.
-# TODO: Replace with another APA-style reference, or delete this TODO line.
+
