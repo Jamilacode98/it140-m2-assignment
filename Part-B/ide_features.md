@@ -2,34 +2,23 @@
 
 ## Introduction
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
+My first time using the IDE was a bit intimidating. It took me awhile to grasps the different functions. I kept playing around with everything until i had some understanding on how it worked. My confidence has increased some because i have some understanding on how to use the program.
 
-TODO: Replace with your introduction here.
+## Feature 1 – Linting 
 
-## Feature 1 – TODO: Replace with name of your Feature1
+Using the linting feature allowed me to analyze my code for errors and coding issues.This feature pointed out things that were identified such as variables, functions, missing parentheses and etc. This feature has been a true life saver for me because coding can be so sensitive and I either has extra or too little of a  thing such as missing parentheses, extra period and so on.
 
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
+## Feature 2 – Debugging
 
-TODO: Replace with your Feature 1 paragraph here.
+While coding in python the debugging feature allowed me to inspect variable values while i was still running the program. A debuggers job is to pause a program at breakpoints and highlight each line at a time which will make it easier for a first time coder to understand how their code works. It helped me find mistakes, understand program flow and built my confidence when trying to solve a problem.
 
-## Feature 2 – TODO: Replace with name of your Feature2
+## Feature 3 – Spell Check
 
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
-
-TODO: Replace with your Feature 2 paragraph here.
-
-## Feature 3 – TODO: Replace with name of your Feature3
-
-> In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
-
-TODO: Replace with your Feature 3 paragraph here.
+Spell check is a big factor in coding as well. One thing that I liked about this feature is that just because the function is named spell check doesn't mean that a word is spelled wrong. This function also points out that a word may not be part of the dictionary. I reviewed flagged words to check for any incorrect spelling.
 
 ## Conclusion
 
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
+This assignment taught me how IDE features can make programming easier to understand and manage. Linting helped me identify mistakes such as extra periods and incorrect indentation. Learning debugging showed me how checking variable values and following code one step at a time can help explain a program's behavior. Spell check helped me reviewed words and improve readability. In future projects, I will use these features to catch mistakes early and work through problems more confidently.
 
-TODO: Replace with your conclusion here.
 
-## References
 
-TODO: Replace with your source citations here in APA style, if any. Delete section heading and this text if not used.
